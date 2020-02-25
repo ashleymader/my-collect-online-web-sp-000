@@ -1,4 +1,4 @@
-array=["Tim Jones", "Tom Smith", "Jim Campagno"]
-
-def my_collect
+def my_collect(array)
+  while array < 0 
+  
 
