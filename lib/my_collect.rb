@@ -1,4 +1,4 @@
-def my_collect(array) { |word| puts #{word} }
+def my_collect(array) { |word| #{word} }
 end
   
 
